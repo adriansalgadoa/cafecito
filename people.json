@@ -6,7 +6,7 @@
             "company": "Ninjas.cl",
             "city": "V Región",
             "country": "Chile",
-            "languages": ["English", "Chileno"],     
+            "languages": ["English", "Chileno"],
             "mastodon": "https://genserver.social/clsource",
             "scheduling": "https://devschile.slack.com/team/U0SCJ8831",
             "online-only": false,
