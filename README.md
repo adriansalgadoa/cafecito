@@ -13,7 +13,7 @@ o simplemente compartir un rato buena onda.
 
 ## 🍰 ¿Cómo me añado?
 
-Se debe modificar el archivo [people.json](https://github.com/fharper/coffeechat/blob/main/people.json) y mandar un pull request. Puedes ver el archivo [schema.json](schema.json) para ver los campos disponibles.
+Se debe modificar el archivo [people.json](https://github.com/devschile/cafecito/blob/main/people.json) y mandar un pull request. Puedes ver el archivo [schema.json](https://github.com/devschile/cafecito/blob/main/schema.json) para ver los campos disponibles.
 
 El archivo `README.md` se genera automáticamente, no se debe modificar.
 
@@ -21,7 +21,7 @@ Si necesitas ayuda puedes preguntar en el [Slack](https://join.slack.com/t/devsc
 
 ### 🌿 ¿Cómo me quito?
 
-Simplemente modificando el archivo [people.json](https://github.com/fharper/coffeechat/blob/main/people.json) y mandando un pull request.
+Simplemente modificando el archivo [people.json](https://github.com/devschile/cafecito/blob/main/people.json) y mandando un pull request.
 
 ### 🧉 Importante
 
