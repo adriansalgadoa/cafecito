@@ -27,7 +27,7 @@ const peopleList = json.people
 
             return `- **[${person.name}](${person.scheduling}) (${socials.join(', ')}), ${
                 person.title
-            } at ${person.company}:** ${person.topics.join(", ")}`
+            } en ${person.company}:** ${person.topics.join(", ")}`
         }
     )
     .join("\r\n");
