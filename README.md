@@ -19,11 +19,11 @@ El archivo `README.md` se genera automáticamente, no se debe modificar.
 
 Si necesitas ayuda puedes preguntar en el [Slack](https://join.slack.com/t/devschile/shared_invite/zt-28po3lsc2-XZd7gJzd_sKl6RJqnYqFkw).
 
-### 🌿 ¿Cómo me quito?
+## 🌿 ¿Cómo me quito?
 
 Simplemente modificando el archivo [people.json](https://github.com/devschile/cafecito/blob/main/people.json) y mandando un pull request.
 
-### 🧉 Importante
+## 🧉 Importante
 
 Solo añade tus propios datos, no los de otra persona.
 
