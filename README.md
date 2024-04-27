@@ -1,42 +1,33 @@
-# Coffee Chat
+# ☕ Cafecito
 
-List of awesome people offering their time **for free** to have a "coffee chat" with others about different topics, mostly in a mentorship kind of way.
+Listado de personas bakanes que ofrecen un poco de su tiempo **totalmente gratis** para tomar un _"cafecito"_ con otros acerca de diversos temas, quizás como una suerte de mentoría. Idealmente presencial, pero también puede ser online.
 
-**Important**: this is not a list to promote your paid services. It is like free as in beer...
+## 🫖 Importante
 
-- **[Annaliese Bronz](https://calendly.com/annaliesebronz/zoom) ([LinkedIn](https://www.linkedin.com/in/annalieseb/)), Software Developer at N/A:** Accountability Partner, Goal Setting, Women in Tech, LGBTQ+ in Tech, Friendships, Networking, In-person meetups
-- **[Anthony Dellavecchia](https://calendly.com/anthonyjdella/chat) ([LinkedIn](https://www.linkedin.com/in/anthonydellavecchia), [Twitter](https://twitter.com/anthonyjdella)), Developer Evangelist, Staff at Twilio:** Software Engineering, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Mental Health, Imposter Syndrome
-- **[Baskar Rao Dandlamudi](https://calendly.com/baskarmib/30min) ([LinkedIn](https://www.linkedin.com/in/baskarrao-dandlamudi/), [Twitter](https://twitter.com/baskarmib)), Solutions Architect at Perficient:** Application Development, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering
-- **[Benoît H. Dicaire](https://calendly.com/bhdicaire/20m) ([LinkedIn](https://www.linkedin.com/in/bhdicaire)), Cybersecurity Strategist at Dicaire.com:** Public speaking, Information security, technology & privacy, Governance, Risk management & compliance
-- **[Frédéric Harper](https://calendly.com/fharper/coffee) ([LinkedIn](https://www.linkedin.com/in/fredericharper), [Twitter](https://twitter.com/fharper)), Principal Developer Advocate at Kubefirst:** Kubefirst, GitOps, DevOps, Software Development, Kubernetes, Cloud & app Architecture, Open-Source, SaaS Architecture, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, LinkedIn, Resume, Cats, Coffee, Microbrewery Beer, Travelling, ADHD, Mental Health, Anything else
-- **[Jody Winter](mailto:jodywinter@xtra.co.nz) ([LinkedIn](https://www.linkedin.com/in/jody-winter/)), Technical Writer at Affinity Employer Services/Freelancing:** Technical Writing, Editing for Clarity and Concision, Writing for End-Users, Structuring Content, Documenting REST APIs, Docs-as-Code, Career Transitions, Skills Development, Freelancing While Fully Employed, Gen X Women in Tech, Working in New Zealand
-- **[Josef Holzmayr](https://calendly.com/theyoctojester/mender-office-hour) ([LinkedIn](https://www.linkedin.com/in/josef-holzmayr), [Twitter](https://twitter.com/theyoctojester)), Head of Developer Relations at Northern.tech:** Open-Source, Embedded Linux, Yocto, OpenEmbedded, OTA Updates, Developer Relations, IoT, Livecoding, Beer, Heavy Metal, Anything else
-- **[Julien Lengrand-Lambert](https://calendly.com/jlengrand) ([LinkedIn](https://www.linkedin.com/in/julienlengrand/), [Twitter](https://twitter.com/jlengrand)), Lead Developer Advocate at Adyen:** Software Engineering, Developer Relations, Developers Documentation, Community Building, Personal Branding, Starting in Tech, Job Search, Writing, Mentoring, Hiring, Meetups, Kotlin, Anything, really
-- **[Lidia De La Cruz](mailto:contact@poderosacoding.com) ([LinkedIn](https://www.linkedin.com/in/lidia-de-la-cruz/), [Twitter](https://twitter.com/poderosacoding)), Consultant Developer|Developer Advocate at Thoughtworks:** Starting in Tech, Structuring Content, Networking, Building a Personal Brand, Career Transitions, Skills Development, Imposter Syndrome, Latinx in Tech, Free Resources, POC in Tech
-- **[Maggie Barnes](https://calendly.com/mbarnestech/coffee_chat) ([LinkedIn](https://www.linkedin.com/in/mbarnestech/), [Twitter](https://twitter.com/mbarnestech)), Software Engineer at N/A:** Software Engineering, Starting in Tech, Career Pivot, Software Engineering Bootcamps, Women in Tech, LGBTQ+ in Tech, Neurodivergence in Tech, Networking, Work-Life Balance
-- **[Maximiliano Rios](https://twitter.com/messages/compose?recipient_id=1191530928591560704) ([LinkedIn](https://www.linkedin.com/in/maximiliano-merced/), [Twitter](https://twitter.com/_maxrios)), Software Engineer at Google:** Software Engineering, Networking, Interviewing, Career Transitions, Education Tech, Designing a Project, Latinx in Tech, First Tech Job, College Advise, Job Search, Starting in Tech
-- **[Mike Staffa](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2ORDYuLhQBn4UgTLumBjC8UgC_lAIItfA3upgMX6TR-NlL-JkwZNz7z8aHy2n05ilPfycvPqkT) ([LinkedIn](https://www.linkedin.com/in/mikestaffa/), [Twitter](https://twitter.com/mtstaffa)), Product Manager at Zeals:** Cross-Cultural Communication, Community Building, Personal Branding, Starting in Tech, Job Search, Japan, Chatbots, Nutrition
-- **[Ochuko Onojakpor](https://calendly.com/chukslord1/30min) ([LinkedIn](https://www.linkedin.com/in/ochuko-onojakpor-5a156515b), [Twitter](https://twitter.com/LordChuks3)), Technical Writer, CEO at GitHub, RequestMechanic:** Software Development, Company Branding, Open-Source, Startups, LLMs, Community Building, Starting in Tech, Auto Care, Job Search, Team Building, Resume, Cats, Coffee, Anything else
-- **[Rasheed Mudasiru](https://cal.com/taiwrash/30min) ([LinkedIn](https://www.linkedin.com/in/rasheedtaiwo/), [Twitter](https://twitter.com/taiwrash)), DevOps Engineer at N/A:** Software Engineering, DevOps, Open Source Software, Community, CS Opportunities, Cloud & Cloud-Native, Podcast, Live streams, Backend
-- **[Rene Pot](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2j2HSqAeHfTXLKLdq5VyE-3lCrbIBLtL7DWAk6VrAkJfC5GVFEFI8cHAhUeIkbqFe1l3hmhm6A) ([LinkedIn](https://www.linkedin.com/in/wraldpyk/), [Twitter](https://twitter.com/wraldpyk), [Mastodon](https://fosstodon.org/@wraldpyk)), Senior Developer Advocate at DHIS2:** Open-Source, Low-Code, No-Code, Twitch, Mobile Development, Developer Relations, Coffee, Whisky, Moving Abroad, Casual Conversation
-- **[Ricardo Sueiras](https://calendly.com/ricardo-sueiras/you-are-amazing) ([LinkedIn](https://www.linkedin.com/in/ricardosueiras), [Twitter](https://twitter.com/094459)), Developer Advocate at AWS:** Open Source, Developer Relations, Innovation, Cloud, Mentoring, Education
-- **[Richard Moot](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3GTtVFlHeYvKVgbxeje5kvnNWdfz8NgP8veCST2A698ybgznKYLNUxZJHCVVAQS1mmqlhmS73n) ([LinkedIn](https://www.linkedin.com/in/richardmoot), [Twitter](https://twitter.com/wootmoot)), Head of Developer Advocacy at Square @ Block, Inc.:** Open-Source, Video, Developer Video, API Design, Developer Relations, Developers Content, Starting in Tech, Job Search, Cats, Coffee, Beer, Travel, Anything else
-- **[Shannon Lal](https://calendly.com/shannonlal/30min) ([LinkedIn](https://www.linkedin.com/in/shannonlal), [Twitter](https://twitter.com/shannondlal)), Director, Journey Technical Lead at RBC:** Starting in Tech, Job Searching, Web, Dev Ops, React, Tech, NodeJS, Software Engineering
-- **[Tobiloba Adedeji](https://cal.com/toby-solutions/30min) ([LinkedIn](https://www.linkedin.com/in/tobiloba-adedeji/), [Twitter](https://twitter.com/toby_solutions)), Software Engineer at Million, Groove:** Software Engineering, Million, Open Source Software, Open Source AI, Starting in Tech, Career Pivot, Software Engineering Bootcamps
-- **[Zachary Powell](https://calendar.app.google/kf8WKmRbxbkkxhbR6) ([LinkedIn](https://www.linkedin.com/in/zachary-mg-powell), [Twitter](https://twitter.com/devwithzachary)), Sr Android Developer Advocate at Vonage:** DevRel, Developer Relations, Android, Starting in Tech, Job Searching, Mobile, Tech, Software Engineering
+Esto no es para promocionar tus servicios de pago, es gratis y pensado para conocer nuevas personas
+o simplemente compartir un rato buena onda.
 
-## Add yourself to this list
+## 🍪 Lista de Personas
 
-**Do not modify `README.md` directly: it will be autogenerated**. To add your name to this list, you need to add another object to the `people` array in [people.json](https://github.com/fharper/coffeechat/blob/main/people.json) and send a pull request. See [schema.json](schema.json) for the information about the JSON schema.
+- **[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831) ([Twitter](https://genserver.social/clsource)), Software Engineer at Ninjas.cl:** Software Engineering, Elixir, Open Source Software, Backend, Phoenix, Erlang, Linux, Emacs
 
-If you have no idea how all this works, you can simply send me your information by [email](mailto:hi@fred.dev), and I'll add you to the list myself with pleasure.
+## 🍰 ¿Cómo me añado?
 
-**Warning**: only add yourself to this list!
+Se debe modificar el archivo [people.json](https://github.com/fharper/coffeechat/blob/main/people.json) y mandar un pull request. Puedes ver el archivo [schema.json](schema.json) para ver los campos disponibles.
 
-## Remove yourself from this list
+El archivo `README.md` se genera automáticamente, no se debe modificar.
 
-Simply create a pull request by removing your people definition from [people.json](https://github.com/fharper/coffeechat/blob/main/people.json). As for adding yourself to the list if you are not a technical person, just send me an [email](mailto:hi@fred.dev) and I'll do it for you.
+Si necesitas ayuda puedes preguntar en el [Slack](https://join.slack.com/t/devschile/shared_invite/zt-28po3lsc2-XZd7gJzd_sKl6RJqnYqFkw).
 
-## Acknowledgements
+### 🌿 ¿Cómo me quito?
 
-The idea of a coffee chat resource list is coming from [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/).
+Simplemente modificando el archivo [people.json](https://github.com/fharper/coffeechat/blob/main/people.json) y mandando un pull request.
+
+### 🧉 Importante
+
+Solo añade tus propios datos, no los de otra persona.
+
+## 🌱 Reconocimientos
+
+La idea original fue de [Julien Lengrand-Lambert.](https://www.linkedin.com/in/julienlengrand/)
+y este es un fork de [coffee chat](https://github.com/fharper/coffeechat/tree/main).
