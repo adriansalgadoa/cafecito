@@ -3,7 +3,7 @@
         {
             "name": "Camilo Castro",
             "title": "Software Engineer",
-            "company": "Ninjas.cl",
+            "company": "https://ninjas.cl",
             "city": "V Región",
             "country": "Chile",
             "languages": ["English", "Chileno"],
@@ -13,7 +13,7 @@
             "topics": [
                 "Software Engineering",
                 "Elixir",
-                "Open Source Software",
+                "Software Libre",
                 "Backend",
                 "Phoenix",
                 "Erlang",
