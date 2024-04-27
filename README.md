@@ -9,7 +9,7 @@ o simplemente compartir un rato buena onda.
 
 ## 🍪 Lista de Personas
 
-- **[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831) ([Mastodon](https://genserver.social/clsource)), Software Engineer at Ninjas.cl:** Software Engineering, Elixir, Open Source Software, Backend, Phoenix, Erlang, Linux, Emacs
+- **[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831) ([Mastodon](https://genserver.social/clsource)), Software Engineer en Ninjas.cl:** Software Engineering, Elixir, Open Source Software, Backend, Phoenix, Erlang, Linux, Emacs
 
 ## 🍰 ¿Cómo me añado?
 
