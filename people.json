@@ -20,6 +20,26 @@
                 "Linux",
                 "Emacs"
             ]
+        },
+        macOS, iOS, Android, C#, .NET — Valdivia
+        {
+            "name": "Ivan Mir",
+            "title": "Independiente",
+            "company": "QotoQot",
+            "city": "Valdivia",
+            "country": "Chile",
+            "languages": ["English", "Chileno", "Ruso"],
+            "mastodon": "https://mas.to/@ivmirx",
+            "scheduling": "https://devschile.slack.com/team/UDBJAJTCL",
+            "online-only": false,
+            "topics": [
+                "aplicaciones",
+                "macOS",
+                "iOS",
+                "Android",
+                "C#",
+                ".NET"
+            ]
         }
     ]
 }
