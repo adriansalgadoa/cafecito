@@ -10,6 +10,7 @@ o simplemente compartir un rato buena onda.
 ## 🍪 Lista de Personas
 
 - **[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831) ([Mastodon](https://genserver.social/clsource)), Software Engineer en https://ninjas.cl:** Software Engineering, Elixir, Software Libre, Backend, Phoenix, Erlang, Linux, Emacs
+- **[Ivan Mir](https://devschile.slack.com/team/UDBJAJTCL) ([Mastodon](https://mas.to/@ivmirx)), Independiente en QotoQot:** aplicaciones, macOS, iOS, Android, C#, .NET
 
 ## 🍰 ¿Cómo me añado?
 
