@@ -15,7 +15,7 @@ json.people.sort(function (a, b) {
 });
 
 //Generate with proper formating
-let out = `|Nombre|Social|Ocupación|Temas|Ubicación|Modalidad|
+const header = `|Nombre|Social|Ocupación|Temas|Ubicación|Modalidad|
 |---|---|---|---|---|---|
 `;
 
@@ -30,9 +30,7 @@ const peopleList = json.people
             }
           });
       
-          out += `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|\n`;
-    
-          return out.trim();
+          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|\n`;
         }
     )
     .join("\r\n");
@@ -41,5 +39,5 @@ const peopleList = json.people
 const template = fs.readFileSync(`${appRoot}/README-TEMPLATE.md`, "utf8");
 fs.writeFileSync(
     `${parentFolderPath}/README.md`,
-    template.replace("PLACEHOLDER", peopleList)
+    template.replace("PLACEHOLDER", [header, peopleList].join("\n"))
 );
