@@ -26,7 +26,7 @@ Si necesitas ayuda puedes preguntar en el [Slack](https://join.slack.com/t/devsc
 ### Preferencias
 
 En la columna preferencias puedes usar emojis que definan lo que te gusta, si es que se juntan en persona.
-Puede ser cualquier emoji pero se recomiendan los siguientes. Por favor no usar más de 6.
+Puede ser cualquier emoji pero se recomiendan los siguientes.
 
 - 👥 : Modalidad Presencial
 - 💻 : Modalidad Online
