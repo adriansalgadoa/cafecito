@@ -47,19 +47,19 @@
             "website": "https://davidlaym.com",
             "online-only": false,
             "topics": [
-                "Software Design", 
-                "Monitoring", 
-                "Performance", 
-                "Software Architecture", 
-                "Software Libre", 
-                "Leadership", 
-                "Consulting", 
-                "Software Industry", 
-                "Security", 
-                "Software Teams", 
+                "Software Design",
+                "Monitoring",
+                "Performance",
+                "Software Architecture",
+                "Software Libre",
+                "Leadership",
+                "Consulting",
+                "Software Industry",
+                "Security",
+                "Software Teams",
                 "Node.js"
             ],
-            "preferences": ["👥", "💻", "🤖","🏡","🔨","🧰","🪚"]
+            "preferences": ["👥", "💻", "🤖", "🏡", "🔨", "🧰", "🪚"]
         }
     ]
 }
