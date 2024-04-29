@@ -39,6 +39,9 @@ Puede ser cualquier emoji pero se recomiendan los siguientes. Por favor no usar 
 - 🌯 : Wraps
 - 🫖 : Té
 - ☕ : Café
+- 🧉 : Mate
+- 🍹 : Jugo
+- 🥂 : Alcohol
 - 🚰 : Agua
 - 🍩 : Donas
 - 🍟 : Papitas
