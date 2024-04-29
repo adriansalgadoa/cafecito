@@ -12,6 +12,7 @@ o simplemente compartir un rato buena onda.
 |Nombre|Social|Ocupación|Temas|Ubicación|Preferencias|
 |---|---|---|---|---|---|
 |**[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831)**|[Mastodon](https://genserver.social/clsource)|Software Engineer en https://ninjas.cl|Software Engineering, Elixir, Software Libre, Backend, Phoenix, Erlang, Linux, Emacs.|V Región / Chile|🌱, 🫖, 🍜, 👥, 💻|
+|**[David Lay](https://devschile.slack.com/team/U0U9FBTK3)**|[Mastodon](https://devschile.social/@davidlaym)|Software Engineer en https://www.leniolabs.com/|Software Design, Monitoring, Performance, Software Architecture, Software Libre, Leadership, Consulting, Software Industry, Security, Software Teams, Node.js.|Santiago / Chile|👥, 💻, 🤖, 🏡, 🔨, 🧰, 🪚|
 |**[Ivan Mir](https://devschile.slack.com/team/UDBJAJTCL)**|[Mastodon](https://mas.to/@ivmirx)|Independiente en QotoQot|aplicaciones, macOS, iOS, Android, C#, .NET.|Valdivia / Chile|👥, 💻|
 
 ## 🍰 ¿Cómo me añado?
