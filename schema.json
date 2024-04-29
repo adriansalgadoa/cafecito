@@ -74,6 +74,15 @@
 					},
 					"minItems": 1,
 					"uniqueItems": true
+				},
+				"preferences": {
+					"description": "List of emojis that defines your preferences",
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"minItems": 1,
+					"uniqueItems": true
 				}
 			},
 			"required": [
@@ -81,9 +90,9 @@
 				"title",
 				"company",
 				"languages",
-				"linkedin",
 				"scheduling",
-				"topics"
+				"topics",
+				"preferences"
 			]
 		}
 	},
