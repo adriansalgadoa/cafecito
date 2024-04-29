@@ -31,7 +31,7 @@ Puede ser cualquier emoji pero se recomiendan los siguientes.
 - 🍺 : Cerveza
 - 🍷 : Vino
 - 🚭 : No Fumador
-- 🍜 : Comida Asíatica
+- 🍜 : Comida Asiática
 - 🍕 : Pizzas
 - 🌯 : Wraps
 - 🫖 : Té

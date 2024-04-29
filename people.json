@@ -79,6 +79,27 @@
                 "Rock climbing / Bouldering"
             ],
             "preferences": ["🍕", "🧗‍♂️", "🍜", "💻", "🥂"]
+        },
+        {
+            "name": "Héctor Palma Téllez",
+            "title": "Design Engineer",
+            "company": "https://devschile.cl/",
+            "city": "Santiago",
+            "country": "Chile",
+            "languages": ["English", "Chileno", "A bit of 汉语"],
+            "linkedin": "https://www.linkedin.com/in/hectorpalmatellez/",
+            "scheduling": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2V_tFtUn7UZnDuyL_mk79FGM9uydaE0K1xAvbD2unotJlBC4pvBfNsCe65AqUfK2gGAf5qee7X",
+            "online-only": false,
+            "topics": [
+                "Design Systems",
+                "Storybook",
+                "Work Culture",
+                "Angular",
+                "TypeScript",
+                "Languages",
+                "Communication"
+            ],
+            "preferences": ["🌱", "🫖", "🍜", "👥", "💻", "🚭"]
         }
     ]
 }
