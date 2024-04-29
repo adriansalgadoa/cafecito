@@ -60,6 +60,25 @@
                 "Node.js"
             ],
             "preferences": ["👥", "💻", "🤖", "🏡", "🔨", "🧰", "🪚"]
+        },
+        {
+            "name": "Pedro Araya",
+            "title": "Full Stack Developer",
+            "company": "https://vinkodigital.com/",
+            "city": "Lisboa",
+            "country": "Portugal",
+            "languages": ["English", "Chileno", "A bit of portuguese"],
+            "mastodon": "https://github.com/pedroFP",
+            "scheduling": "https://devschile.slack.com/team/U0SCJ8831",
+            "online-only": false,
+            "topics": [
+                "Ruby on Rails",
+                "Backend",
+                "Work Culture",
+                "React",
+                "Rock climbing / Bouldering"
+            ],
+            "preferences": ["🍕", "🧗‍♂️", "🍜", "💻", "🥂"]
         }
     ]
 }
