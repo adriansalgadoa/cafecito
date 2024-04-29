@@ -3,18 +3,18 @@ const fs = require("fs");
 const appRoot = require("app-root-path");
 let path = require("path");
 
-//Get the data
+// Get the data
 path = path.parse(appRoot.path);
 parentFolderPath = path.dir.split(path.sep).pop();
 const data = fs.readFileSync(`${parentFolderPath}/people.json`);
 const json = JSON.parse(data);
 
-//Order by name
+// Order by name
 json.people.sort(function (a, b) {
     return a.name.localeCompare(b.name);
 });
 
-//Generate with proper formating
+// Generate with proper formating
 const header = `|Nombre|Social|Ocupación|Temas|Ubicación|Modalidad|
 |---|---|---|---|---|---|
 `;
@@ -30,12 +30,12 @@ const peopleList = json.people
             }
           });
       
-          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|\n`;
+          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|`;
         }
     )
-    .join("\r\n");
+    .join("\n");
 
-//Write README.md
+// Write README.md
 const template = fs.readFileSync(`${appRoot}/README-TEMPLATE.md`, "utf8");
 fs.writeFileSync(
     `${parentFolderPath}/README.md`,
