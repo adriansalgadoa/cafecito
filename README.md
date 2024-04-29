@@ -13,6 +13,7 @@ o simplemente compartir un rato buena onda.
 |---|---|---|---|---|---|
 |**[Camilo Castro](https://devschile.slack.com/team/U0SCJ8831)**|[Mastodon](https://genserver.social/clsource)|Software Engineer en https://ninjas.cl|Software Engineering, Elixir, Software Libre, Backend, Phoenix, Erlang, Linux, Emacs.|V Región / Chile|🌱, 🫖, 🍜, 👥, 💻|
 |**[David Lay](https://devschile.slack.com/team/U0U9FBTK3)**|[Mastodon](https://devschile.social/@davidlaym)|Software Engineer en https://www.leniolabs.com/|Software Design, Monitoring, Performance, Software Architecture, Software Libre, Leadership, Consulting, Software Industry, Security, Software Teams, Node.js.|Santiago / Chile|👥, 💻, 🤖, 🏡, 🔨, 🧰, 🪚|
+|**[Héctor Palma Téllez](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2V_tFtUn7UZnDuyL_mk79FGM9uydaE0K1xAvbD2unotJlBC4pvBfNsCe65AqUfK2gGAf5qee7X)**|[LinkedIn](https://www.linkedin.com/in/hectorpalmatellez/)|Design Engineer en https://devschile.cl/|Design Systems, Storybook, Work Culture, Angular, TypeScript, Languages, Communication.|Santiago / Chile|🌱, 🫖, 🍜, 👥, 💻, 🚭|
 |**[Ivan Mir](https://devschile.slack.com/team/UDBJAJTCL)**|[Mastodon](https://mas.to/@ivmirx)|Independiente en QotoQot|aplicaciones, macOS, iOS, Android, C#, .NET.|Valdivia / Chile|👥, 💻|
 |**[Pedro Araya](https://devschile.slack.com/team/U0SCJ8831)**|[Mastodon](https://github.com/pedroFP)|Full Stack Developer en https://vinkodigital.com/|Ruby on Rails, Backend, Work Culture, React, Rock climbing / Bouldering.|Lisboa / Portugal|🍕, 🧗‍♂️, 🍜, 💻, 🥂|
 
@@ -36,7 +37,7 @@ Puede ser cualquier emoji pero se recomiendan los siguientes.
 - 🍺 : Cerveza
 - 🍷 : Vino
 - 🚭 : No Fumador
-- 🍜 : Comida Asíatica
+- 🍜 : Comida Asiática
 - 🍕 : Pizzas
 - 🌯 : Wraps
 - 🫖 : Té
