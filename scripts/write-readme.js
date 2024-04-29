@@ -39,5 +39,5 @@ const peopleList = json.people
 const template = fs.readFileSync(`${appRoot}/README-TEMPLATE.md`, "utf8");
 fs.writeFileSync(
     `${parentFolderPath}/README.md`,
-    template.replace("PLACEHOLDER", [header, peopleList].join("\n"))
+    template.replace("PLACEHOLDER", [header, peopleList].join(""))
 );
