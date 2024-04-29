@@ -20,13 +20,7 @@
                 "Linux",
                 "Emacs"
             ],
-            "preferences": [
-                "🌱",
-                "🫖",
-                "🍜",
-                "👥",
-                "💻"
-            ]
+            "preferences": ["🌱", "🫖", "🍜", "👥", "💻"]
         },
         {
             "name": "Ivan Mir",
@@ -39,8 +33,7 @@
             "scheduling": "https://devschile.slack.com/team/UDBJAJTCL",
             "online-only": false,
             "topics": ["aplicaciones", "macOS", "iOS", "Android", "C#", ".NET"],
-            "preferences": [ "👥",
-                "💻"]
+            "preferences": ["👥", "💻"]
         }
     ]
 }
