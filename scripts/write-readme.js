@@ -30,12 +30,9 @@ const peopleList = json.people
             }
           });
       
-          out += `
-           |**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|
-          `
-        });
+          out += `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|\n`;
     
-        return out.trim();
+          return out.trim();
         }
     )
     .join("\r\n");
