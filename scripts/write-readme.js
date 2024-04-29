@@ -15,19 +15,27 @@ json.people.sort(function (a, b) {
 });
 
 //Generate with proper formating
+let out = `|Nombre|Social|Ocupación|Temas|Ubicación|Modalidad|
+|---|---|---|---|---|---|
+`;
+
 const peopleList = json.people
     .map(
         (person) => {
-            let socials = [];
-            ['LinkedIn', 'Twitter', 'Mastodon'].forEach(social => {
-                if (person.hasOwnProperty(social.toLowerCase()) && person[social.toLowerCase()].length > 0) {
-                    socials.push(`[${social}](${person[social.toLowerCase()]})`);
-                }
-            });
-
-            return `- **[${person.name}](${person.scheduling}) (${socials.join(', ')}), ${
-                person.title
-            } en ${person.company}:** ${person.topics.join(", ")}`
+            
+          const socials = [];
+          ['LinkedIn', 'Twitter', 'Mastodon'].forEach(social => {
+            if (person.hasOwnProperty(social.toLowerCase()) && person[social.toLowerCase()].length > 0) {
+              socials.push(`[${social}](${person[social.toLowerCase()]})`);
+            }
+          });
+      
+          out += `
+           |**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|
+          `
+        });
+    
+        return out.trim();
         }
     )
     .join("\r\n");
