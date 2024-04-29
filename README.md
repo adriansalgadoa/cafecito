@@ -22,6 +22,30 @@ El archivo `README.md` se genera automáticamente, no se debe modificar.
 
 Si necesitas ayuda puedes preguntar en el [Slack](https://join.slack.com/t/devschile/shared_invite/zt-28po3lsc2-XZd7gJzd_sKl6RJqnYqFkw).
 
+### Preferencias
+
+En la columna preferencias puedes usar emojis que definan lo que te gusta, si es que se juntan en persona.
+Puede ser cualquier emoji pero se recomiendan los siguientes. Por favor no usar más de 6.
+
+- 👥 : Modalidad Presencial
+- 💻 : Modalidad Online
+- 🌱 : Vegano
+- 🍖 : No Vegano
+- 🍺 : Cerveza
+- 🍷 : Vino
+- 🚭 : No Fumador
+- 🍜 : Comida Asíatica
+- 🍕 : Pizzas
+- 🌯 : Wraps
+- 🫖 : Té
+- ☕ : Café
+- 🚰 : Agua
+- 🍩 : Donas
+- 🍟 : Papitas
+- 🌭 : Completos
+- 🍿 : Cine
+- 🍔 : Hamburguesa
+
 ## 🌿 ¿Cómo me quito?
 
 Simplemente modificando el archivo [people.json](https://github.com/devschile/cafecito/blob/main/people.json) y mandando un pull request.
