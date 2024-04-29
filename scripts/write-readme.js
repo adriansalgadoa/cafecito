@@ -15,7 +15,7 @@ json.people.sort(function (a, b) {
 });
 
 // Generate with proper formating
-const header = `|Nombre|Social|Ocupación|Temas|Ubicación|Modalidad|
+const header = `|Nombre|Social|Ocupación|Temas|Ubicación|Preferencias|
 |---|---|---|---|---|---|
 `;
 
@@ -30,7 +30,7 @@ const peopleList = json.people
             }
           });
       
-          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person["online-only"] ? "Solo Online" : "Pre + On"}|`;
+          return `|**[${person.name}](${person.scheduling})**|${socials.join(', ')}|${person.title} en ${person.company}|${person.topics.join(", ")}.|${person.city} / ${person.country}|${person.preferences.join(", ")}|`;
         }
     )
     .join("\n");
