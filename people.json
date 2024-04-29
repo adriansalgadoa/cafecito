@@ -34,6 +34,32 @@
             "online-only": false,
             "topics": ["aplicaciones", "macOS", "iOS", "Android", "C#", ".NET"],
             "preferences": ["👥", "💻"]
+        },
+        {
+            "name": "David Lay",
+            "title": "Software Engineer",
+            "company": "https://www.leniolabs.com/",
+            "city": "Santiago",
+            "country": "Chile",
+            "languages": ["English", "Spanish"],
+            "mastodon": "https://devschile.social/@davidlaym",
+            "scheduling": "https://devschile.slack.com/team/U0U9FBTK3",
+            "website": "https://davidlaym.com",
+            "online-only": false,
+            "topics": [
+                "Software Design", 
+                "Monitoring", 
+                "Performance", 
+                "Software Architecture", 
+                "Software Libre", 
+                "Leadership", 
+                "Consulting", 
+                "Software Industry", 
+                "Security", 
+                "Software Teams", 
+                "Node.js"
+            ],
+            "preferences": ["👥", "💻", "🤖","🏡","🔨","🧰","🪚"]
         }
     ]
 }
