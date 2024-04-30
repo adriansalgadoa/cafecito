@@ -100,6 +100,37 @@
                 "Communication"
             ],
             "preferences": ["🌱", "🫖", "🍜", "👥", "💻", "🚭"]
-        }
+        },
+        {
+	    	"name": "Ignacio Rodriguez",
+	    	"title": "DevOps Engineer / SRE",
+	    	"company": "symbiose.cl",
+	    	"city": "Santiago",
+	    	"country": "Chile",
+	    	"languages": ["A bit of Tarzan Engrish", "Chilean Spanish"],
+	    	"online-only": false,
+            "scheduling": "https://devschile.slack.com/team/UUU97K0TG",
+	    	"mastodon": "https://devschile.slack.com/team/n0m34cu3rd0d37u53r",
+	    	"website": "https://iarch.cl",
+	    	"topics": [
+	    		"DIY",
+	    		"IoT",
+	    		"Linux",
+	    		"Docker",
+	    		"Kubernetes",
+	    		"Flavors of Linux",
+	    		"Homelabs",
+	    		"Networking",
+	    		"Emulation",
+	    		"Gadgets",
+	    		"House plants",
+	    		"Gardening",
+	    		"TinyGS",
+	    		"Meshtastic",
+	    		"LoRa / LoRaWAN & descentralized communications (mesh networking)",
+	    		"Smart cities and weather monitoring"
+	    	],
+	    	"preferences": ["🍖", "🍺", "🍩", "🍔", "🌭", "🍕", "🥂", "🚭", "🌯", "🍜", "🫖", "💻"]
+	    }
     ]
 }
