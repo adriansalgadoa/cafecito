@@ -17,6 +17,7 @@ o simplemente compartir un rato buena onda.
 |**[Ignacio Rodriguez](https://devschile.slack.com/team/UUU97K0TG)**|[Mastodon](https://devschile.slack.com/team/n0m34cu3rd0d37u53r)|DevOps Engineer / SRE en symbiose.cl|DIY, IoT, Linux, Docker, Kubernetes, Flavors of Linux, Homelabs, Networking, Emulation, Gadgets, House plants, Gardening, TinyGS, Meshtastic, LoRa / LoRaWAN & descentralized communications (mesh networking), Smart cities and weather monitoring.|Santiago / Chile|🍖, 🍺, 🍩, 🍔, 🌭, 🍕, 🥂, 🚭, 🌯, 🍜, 🫖, 💻|
 |**[Ivan Mir](https://devschile.slack.com/team/UDBJAJTCL)**|[Mastodon](https://mas.to/@ivmirx)|Independiente en QotoQot|aplicaciones, macOS, iOS, Android, C#, .NET.|Valdivia / Chile|👥, 💻|
 |**[Pedro Araya](https://devschile.slack.com/team/U0SCJ8831)**|[Mastodon](https://github.com/pedroFP)|Full Stack Developer en https://vinkodigital.com/|Ruby on Rails, Backend, Work Culture, React, Rock climbing / Bouldering.|Lisboa / Portugal|🍕, 🧗‍♂️, 🍜, 💻, 🥂|
+|**[Rodrigo Carmona](https://devschile.slack.com/team/U8N65AW3Z)**|[LinkedIn](https://www.linkedin.com/in/rcarmonad/)|Solutions Architect en https://www.kimn-it.cl/|Security, Java, Spring, Coffee, Parenting, Sofrware Architecture, Software development, Team Building.|Santiago / Chile|👥, 💻, 🍺, 🚭, 🍕, 🫖, ☕, 🌭|
 
 ## 🍰 ¿Cómo me añado?
 
