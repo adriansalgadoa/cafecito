@@ -144,6 +144,38 @@
                 "🫖",
                 "💻"
             ]
+        },
+        {
+            "name": "Rodrigo Carmona",
+            "title": "Solutions Architect",
+            "company": "https://www.kimn-it.cl/",
+            "city": "Santiago",
+            "country": "Chile",
+            "languages": ["English", "Spanish"],
+            "linkedin": "https://www.linkedin.com/in/rcarmonad/",
+            "scheduling": "https://devschile.slack.com/team/U8N65AW3Z",
+            "website": "",
+            "online-only": false,
+            "topics": [
+                "Security",
+                "Java",
+                "Spring",
+                "Coffee",
+                "Parenting",
+                "Sofrware Architecture",
+                "Software development",
+                "Team Building"
+            ],
+            "preferences": [
+                "👥",
+                "💻",
+                "🍺",
+                "🚭",
+                "🍕",
+                "🫖",
+                "☕",
+                "🌭"
+            ]
         }
     ]
 }
