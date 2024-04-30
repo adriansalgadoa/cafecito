@@ -52,6 +52,8 @@ Puede ser cualquier emoji pero se recomiendan los siguientes.
 - 🌭 : Completos
 - 🍿 : Cine
 - 🍔 : Hamburguesa
+- 😶‍🌫️ : 420
+  
 
 ## 🌿 ¿Cómo me quito?
 
