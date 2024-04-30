@@ -167,6 +167,20 @@
                 "Team Building"
             ],
             "preferences": ["👥", "💻", "🍺", "🚭", "🍕", "🫖", "☕", "🌭"]
+        },
+        {
+            "city": "Copenhagen",
+            "company": "https://gowish.com",
+            "country": "Dinamarca 🇩🇰",
+            "description": "Desarrollador chato de trabajar",
+            "languages": ["Español", "Inglés"],
+            "linkedin": "https://www.linkedin.com/in/salgadoadrian/",
+            "mastodon": "https://devschile.social/@lasagnaandroid",
+            "name": "Adrián Salgado aka Lasagna",
+            "preferences": ["Todo menos carne y cigarro"],
+            "scheduling": "no se",
+            "title": "Software Engineer",
+            "topics": ["De todo lo que quieran hablar"]
         }
     ]
 }
